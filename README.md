@@ -1,0 +1,3 @@
+# django_udemy
+
+namespace
